@@ -4,3 +4,4 @@
 
 # [python-新手上路-走路篇｜range｜for｜while](https://hackmd.io/@lucashsu95/setp2)
 
+# [python-新手上路-番外篇｜文字雲](https://hackmd.io/@lucashsu95/Byuegm7a3)
