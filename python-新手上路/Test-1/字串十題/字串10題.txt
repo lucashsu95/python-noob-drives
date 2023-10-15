@@ -1,8 +1,9 @@
+輸出()裡面的值
+
 (1)
 輸入一個值，並且印出來
-3 3
-hello hello
-LINEID:lucashsu95 LINEID:lucashsu95
+3 (3)
+hello (hello)
 
 (2)
 輸入一個數字，判斷是否為偶數
