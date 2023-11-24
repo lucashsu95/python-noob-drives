@@ -2,6 +2,9 @@
 
 https://github.com/lucashsu95/python-noob_drives
 
+- [字串10題](./10題/字串10題.txt)
+- [迴圈10題](./10題/迴圈10題.txt)
+
 ## 基礎
 
 1. [python-新手上路-Day0｜建置環境](/mfWFDu-NTLS7jhH6ht90AQ)
